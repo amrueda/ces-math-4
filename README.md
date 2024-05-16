@@ -1,21 +1,21 @@
 # Mathematical Principles IV (CES/RWTH Aachen)
 This is a repository for the course *Mathematische Grundlagen IV*
 ("Mathematical Principles IV") for the Computational Engineering Science
-bachelor program at RWTH Aachen University (summer term 2023).
+bachelor program at RWTH Aachen University (summer term 2024).
 
 ## Pluto notebooks
 Notebooks available in this repository:
 * **Notebook 1: Discrete Fourier Transform Introduction with Sounds**
-  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/main/notebooks/play_sounds.jl),
+  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/master/notebooks/play_sounds.jl),
    [HTML preview](https://amrueda.github.io/ces-math-4/play_sounds.html))
 * **Notebook 2: Discrete Fourier Transform**
-  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/main/notebooks/discrete_fourier_transform.jl),
+  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/master/notebooks/discrete_fourier_transform.jl),
    [HTML preview](https://amrueda.github.io/ces-math-4/discrete_fourier_transform.html))
 * **Notebook 3: Circular Convolutions**
-  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/main/notebooks/convolution.jl),
+  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/master/notebooks/convolution.jl),
    [HTML preview](https://amrueda.github.io/ces-math-4/convolution.html))
 * **Notebook 4: Finite Difference Method**
-  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/main/notebooks/finite_difference_method.jl),
+  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/master/notebooks/finite_difference_method.jl),
    [HTML preview](https://amrueda.github.io/ces-math-4/finite_difference_method.html))
 
 If you are new to [Julia](https://julialang.org) and [Pluto.jl](https://github.com/fonsp/Pluto.jl),
