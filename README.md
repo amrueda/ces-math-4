@@ -20,6 +20,9 @@ Notebooks available in this repository:
 * **Notebook 5: Finite Difference Method for Advection-Diffusion Equation**
   ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/master/notebooks/finite_difference_method_advection_diffusion.jl),
    [HTML preview](https://amrueda.github.io/ces-math-4/finite_difference_method_advection_diffusion.html))
+* **Notebook 6: Conjugate Gradient Method and comparison with Steepest Descent**
+  ([Pluto link](https://raw.githubusercontent.com/amrueda/ces-math-4/master/notebooks/CG-method.jl),
+   [HTML preview](https://amrueda.github.io/ces-math-4/CG-method.html))
 
 If you are new to [Julia](https://julialang.org) and [Pluto.jl](https://github.com/fonsp/Pluto.jl),
 follow the instructions [below](#getting-started-with-julia-and-pluto) to get started.
